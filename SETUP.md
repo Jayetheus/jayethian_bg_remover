@@ -1,4 +1,5 @@
 ## Installation 💻
+***Note***: *Run the commands in succession instead!* 
 
 ### Backend Setup
 
